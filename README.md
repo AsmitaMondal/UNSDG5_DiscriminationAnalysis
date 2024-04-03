@@ -65,7 +65,7 @@ The dataset downloaded from the official site of UNSDG was combined with the cou
 
 ## Discussion
 
-The results and discussion were presented with the help of an Infographic
+The results and discussion were presented with the help of an Infographic designed using *CANVA*
 
 ![5 1 final (1)_page-0001](https://github.com/AsmitaMondal/UNSDG5_DiscriminationAnalysis/assets/108891810/8174ebc0-675f-4cfe-9b8b-9e695dd8d38f)
 
@@ -92,7 +92,7 @@ The analysis was conducted based on the following categorizations:
 
 ## Discussion
 
-The results and discussion were presented with the help of an Infographic
+The results and discussion were presented with the help of an Infographic designed using *CANVA*
 
 ![5 2 final (1)_page-0001](https://github.com/AsmitaMondal/UNSDG5_DiscriminationAnalysis/assets/108891810/b6038f94-bc09-467e-85f4-83198b17dc92)
 
